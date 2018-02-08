@@ -1,4 +1,4 @@
-# Welcome on the FAVOR-Repository!
+# Welcome to the FAVOR-Repository!
 
 FAVOR, a special Family Organizer.
 
