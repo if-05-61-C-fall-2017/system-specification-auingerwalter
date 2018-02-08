@@ -1,8 +1,6 @@
-# System-Specification from Auinger Philipp and Walter Alexander
+# Welcome on the FAVOR-Repository!
 
-You are right now on the Project-Repository of FAVOR. 
-
-FAVOR is a Family Organizer which gets developed from our team.
+FAVOR, a special Family Organizer.
 
 [Link to our Website](http://favor.somee.com)
 
