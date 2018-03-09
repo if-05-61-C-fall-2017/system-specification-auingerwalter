@@ -1,5 +1,5 @@
-# Welcome to the FAVOR-Repository!
+# Welcome to the FAVOR-DEVELOPMENT-Repository!
 
 FAVOR, a special Family Organizer.
 
-Latest Documents: "FavorSystemSpecification"  
+Coding and Planing...
